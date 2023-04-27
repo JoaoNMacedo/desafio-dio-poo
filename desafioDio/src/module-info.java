@@ -5,5 +5,5 @@
  * @author Maced
  *
  */
-module desafioPooDio {
+module desafioDio {
 }
