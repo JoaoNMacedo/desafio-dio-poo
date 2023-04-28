@@ -7,7 +7,7 @@ Este projeto é parte de um curso programação orientada a objetos (POO). O obj
 
 ## Tecnologias utilizadas
 
-- Linguagem de programação Java
+- Linguagem de programação Java : versão 19.
 - IDE Eclipse
 
 
